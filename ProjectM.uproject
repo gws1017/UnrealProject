@@ -5,7 +5,7 @@
 	"Description": "",
 	"Modules": [
 		{
-			"Name": "ProjectZ",
+			"Name": "ProjectM",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}
