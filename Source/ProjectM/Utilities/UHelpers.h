@@ -3,7 +3,7 @@
 #include "UObject/ConstructorHelpers.h"
 
 
-class ProjectM_API UHelpers
+class PROJECTM_API UHelpers
 {
 public:
 	template<typename T>
