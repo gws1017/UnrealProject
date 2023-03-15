@@ -6,5 +6,6 @@
 #include "KismetAnimationLibrary.h"
 
 #include "Utilities/UHelpers.h"
+#include "Utilities/CLog.h"
 
 
