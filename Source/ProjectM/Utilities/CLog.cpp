@@ -63,6 +63,11 @@ void CLog::Log(const FRotator& InValue)
 	UE_LOG(GameProject, Display, L"%s", *InValue.ToString());
 }
 
+void CLog::Log(const FIntPoint& InValue)
+{
+	UE_LOG(GameProject, Display, L"%s", *InValue.ToString());
+}
+
 void CLog::Log(const UObject* InObject)
 {
 	FString str;

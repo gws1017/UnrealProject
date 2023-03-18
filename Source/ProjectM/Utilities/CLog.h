@@ -18,6 +18,7 @@ public:
 	static void Log(const FString& InValue);
 	static void Log(const FVector& InValue);
 	static void Log(const FRotator& InValue);
+	static void Log(const FIntPoint& InValue);
 
 	static void Log(const UObject* InObject);
 	static void Log(const FString& InFuncName, int32 InlineNumber);
